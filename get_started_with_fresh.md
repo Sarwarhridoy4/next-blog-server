@@ -372,12 +372,4 @@ npm run dev                          # start dev server
 
 ---
 
-If you want, I can also:
-
-* Add a ready-to-copy `package.json` + `tsconfig.json`
-* Create the initial repo files for you (index.ts, db.ts, seed.ts, schema.prisma)
-* Add Dockerfile / docker-compose for Postgres + app
-
-Tell me which one you want next and I’ll generate the files.
-
 <!-- End of README -->
